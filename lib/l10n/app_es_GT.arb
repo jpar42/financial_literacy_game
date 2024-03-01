@@ -60,7 +60,7 @@
 "titleSignIn": "Bienvenido al juego de Finsim",
 "warning": "advertencia",
 "welcomeBack": "Bienvenido de nuevo, {firstName} {lastName}!",
-"welcomeText": "Queridos participantes, is Juego está destinado a imitar las inversiones financieras. Solo se utilizará con el fin de enseñar. Este juego no afectará la relación con su banco. \n \n Ingrese su información de contacto a continuación.",
+"welcomeText": "Queridos participantes, esté juego está destinado a imitar las inversiones financieras. Solo se utilizará con el fin de enseñar. Este juego NO afectará la relación con su banco. \n \n Ingrese su información de contacto a continuación.",
 "selectLanguage": "Seleccione el idioma:",
 "hintUID": "p.ej. TEST001",
 "confirmNameTitle": "Confirma tu nombre",
@@ -70,5 +70,5 @@
 "codeNotFound": "Código no encontrado",
 "noCodeButton": "Sin código",
 "signInName": "Inicie sesión con su nombre y apellido: \n",
-"backButton": "atrás"
+"backButton": "Atrás"
 }

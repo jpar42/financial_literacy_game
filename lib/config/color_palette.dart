@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ColorPalette {
-  Color get background => const Color.fromRGBO(224, 247, 250, 1.0);
+  Color get background => const Color.fromRGBO(89, 201, 12, 1.0);
   Color get appBarBackground => const Color.fromRGBO(128, 222, 234, 1.0);
   Color get backgroundSectionCard => const Color.fromRGBO(128, 222, 234, 1.0);
   Color get backgroundContentCard => const Color.fromRGBO(0, 131, 143, 1.0);
